@@ -21,6 +21,8 @@
 * `yarn install` — установить зависимости;
 * `npm run dev` — запустить проект в режиме разработки.
 
+Бэк проекта https://github.com/SergeyKardashev/Hackathon_CRM_YP_Back
+
 ## Команда разработки №5
 * [Дмитрий Орлов](https://github.com/mityourik)
 * [Сергей Кардашев](https://github.com/SergeyKardashev)
